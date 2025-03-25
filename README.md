@@ -3,7 +3,7 @@
 
 This project demonstrates a simple and efficient hybrid recommendation system for a music streaming platform. It combines collaborative filtering with content-based filtering using song metadata.
 
-## 📁 Files
+## Files
 
 - `music_recsys.ipynb`: Jupyter notebook with the complete implementation
 - `songs_metadata.csv`: Sample metadata about 200 songs (genre, tempo, etc.)
