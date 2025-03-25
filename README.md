@@ -10,13 +10,13 @@ This project demonstrates a simple and efficient hybrid recommendation system fo
 - `user_interactions.csv`: 1000+ user-song interaction data with ratings
 - `README.md`: Project overview
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repo
 2. Open the notebook in Jupyter or Google Colab
 3. Run all cells to see the recommendations in action
 
-## 🛠 Libraries Used
+## Libraries Used
 
 - `pandas`, `numpy`
 - `scikit-learn`
